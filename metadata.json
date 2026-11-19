@@ -1,0 +1,6 @@
+{
+  "name": "EnhanceLPR",
+  "description": "AI-powered vehicle license plate detection, conditional clarity enhancement, OCR extraction, and Indian format validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
